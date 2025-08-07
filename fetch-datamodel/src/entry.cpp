@@ -4,7 +4,7 @@
 #include <Psapi.h>
 class offsets {
 public:
-	static const uint64_t fake_dm_ptr = 0x6ED6E38;
+	static const uint64_t fake_dm_ptr = 0x6E854F8;
 	static const uint64_t fake_dm_2_dm = 0x1C0;
 };
 class helpers {
