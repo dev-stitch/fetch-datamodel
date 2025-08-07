@@ -1,4 +1,4 @@
-# ❗ UPDATED AS OF version-b8550645b8834e8a ❗
+# ❗ UPDATED AS OF version-3f74e22590714de4 ❗
 Simple C++ program that fetches DataModel 😎
 ## Usage
 ### Downloading project
